@@ -1,0 +1,73 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADC_GetVal	adc.c	43;"	function	signature:(void)
+ADC_GetVal	adc.h	28;"	prototype	signature:(void)
+ADC_Init	adc.c	34;"	function	signature:(void)
+ADC_Init	adc.h	27;"	prototype	signature:(void)
+DEF_16BIT_REG_AT	stm8s105c_s.h	20;"	macro
+DEF_16BIT_REG_AT	stm8s105c_s.h	25;"	macro
+DEF_8BIT_REG_AT	stm8s105c_s.h	19;"	macro
+DEF_8BIT_REG_AT	stm8s105c_s.h	24;"	macro
+FALSE	typedef.h	19;"	enumerator	enum:__anon1
+IO_INPUT	typedef.h	8;"	macro
+IO_OUTPUT	typedef.h	7;"	macro
+NonHandledInterrupt	stm8_interrupt_vector.c	14;"	function	signature:(void)
+NonHandledInterrupt_UART2RX	stm8_interrupt_vector.c	22;"	function	signature:(void)
+STM8S105C6	c:\documents and settings\administrator\×ÀÃæ\include\stm8s105c6.h	3;"	macro
+STM8S105C_S	stm8s105c_s.h	12;"	macro
+TRUE	typedef.h	20;"	enumerator	enum:__anon1
+UART2_Init	uart.c	37;"	function	signature:(void)
+UART2_Init	uart.h	27;"	prototype	signature:(void)
+UART2_Send	uart.c	47;"	function	signature:(u8 dat)
+UART2_Send	uart.h	28;"	prototype	signature:(u8 dat)
+UART2_SendString	uart.c	62;"	function	signature:(u8* Data)
+UART2_SendString	uart.h	29;"	prototype	signature:(u8* Data)
+__ADC_H	adc.h	11;"	macro
+__COMMON_H	common.h	11;"	macro
+__MODS0__	..\..\..\..\stvdÀý³Ì\cxstm8\hstm8\mods0.h	11;"	macro
+__STM8S105C_S__	stm8s105c_s.h	6;"	macro
+__TYPEDEF_H__	typedef.h	2;"	macro
+__UART_H	uart.h	11;"	macro
+_stext	stm8_interrupt_vector.c	32;"	prototype	file:
+_vectab	stm8_interrupt_vector.c	34;"	variable
+bool	typedef.h	21;"	typedef	typeref:enum:__anon1
+delay_ms	common.h	29;"	prototype	signature:(u8 ms)
+delay_ms	main.c	9;"	function	signature:(u8 ms)
+delay_ms	uart.h	26;"	prototype	signature:(u8 ms)
+f32	typedef.h	17;"	typedef
+interrupt_handler	stm8_interrupt_vector.c	11;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	7;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	10;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	9;"	struct	file:
+main	main.c	19;"	function
+printf_array	uart.c	143;"	function	signature:(unsigned char *buffer, unsigned short cnt)
+printf_array	uart.h	37;"	prototype	signature:(unsigned char *buffer, unsigned short cnt)
+printf_str	uart.c	84;"	function	signature:(unsigned char *buffer)
+printf_str	uart.h	32;"	prototype	signature:(unsigned char *buffer)
+putasc	uart.c	110;"	function	signature:(unsigned char ch)
+putasc	uart.h	34;"	prototype	signature:(unsigned char ch)
+putascLong	uart.c	118;"	function	signature:(unsigned long ch)
+putascLong	uart.h	35;"	prototype	signature:(unsigned long ch)
+putascShort	uart.c	135;"	function	signature:(unsigned short ch)
+putascShort	uart.h	36;"	prototype	signature:(unsigned short ch)
+putascbase	uart.c	92;"	function	signature:(unsigned char ch)
+putascbase	uart.h	33;"	prototype	signature:(unsigned char ch)
+putchar	uart.c	73;"	function	signature:(char ch)
+putchar	uart.h	31;"	prototype	signature:(char ch)
+s16	typedef.h	14;"	typedef
+s32	typedef.h	16;"	typedef
+s8	typedef.h	12;"	typedef
+u16	typedef.h	13;"	typedef
+u32	typedef.h	15;"	typedef
+u8	typedef.h	11;"	typedef
+vf32	typedef.h	29;"	typedef
+vs16	typedef.h	26;"	typedef
+vs32	typedef.h	28;"	typedef
+vs8	typedef.h	24;"	typedef
+vu16	typedef.h	25;"	typedef
+vu32	typedef.h	27;"	typedef
+vu8	typedef.h	23;"	typedef
